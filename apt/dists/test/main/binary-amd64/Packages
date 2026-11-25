@@ -1,0 +1,16 @@
+Package: pos-suite-serveur-test
+Architecture: amd64
+Version: 0.3.0-test
+Priority: optional
+Maintainer: POS Suite
+Installed-Size: 36800
+Depends: libwebkit2gtk-4.1-0, libgtk-3-0, libwebkit2gtk-4.1-0, libgtk-3-0
+Filename: pool/main/test/pos-suite-serveur-test_0.3.0-test_amd64.deb
+Size: 14781738
+MD5sum: bea7f724d668a5dba99d41a35970a211
+SHA1: 5aa297325797ad93b5e8b725adc42978687fc800
+SHA256: 0ef64f581fb049d97ce5cb97e122bb2a974440fb01dcd3119fb3b77f29abc641
+SHA512: 382ff342bd4580a4bc986250ab934199854fdc65ec06b5190e777a06d1a12a52c6bd8e1f4ef2a18a1cbd7e572685f6d25980d21491f53b801191539fd0cdb4a9
+Description: POS Suite - serveur de boutique (test)
+ Canal de test de POS Suite : serveur de boutique avec PostgreSQL embarqué, relié à l'environnement de test (api.pos-test.gengistech.mg).
+

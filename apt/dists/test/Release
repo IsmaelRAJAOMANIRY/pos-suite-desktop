@@ -1,0 +1,19 @@
+Architectures: amd64
+Codename: test
+Components: main
+Date: Wed, 25 Nov 2026 22:37:30 +0000
+Label: POS Suite Serveur
+Origin: POS Suite
+Suite: test
+MD5Sum:
+ 106b7e918d704c634bb266d812366107              785 main/binary-amd64/Packages
+ 5227c6b8d786af1c11529ffd4d5b38d5              522 main/binary-amd64/Packages.gz
+SHA1:
+ 6ec5e958b85772da649ae85dc1826cb8764df4f5              785 main/binary-amd64/Packages
+ 0ef33cc1443e76f549e7818d32b7d08f3f172823              522 main/binary-amd64/Packages.gz
+SHA256:
+ a3b7613415571634aba59055154093be82a3c9d5cb359a12293ec1861ee16af9              785 main/binary-amd64/Packages
+ 2ce883de3eed6494bba31ab29ba64cb7c1496f081c94dc350a42604cb2926fa8              522 main/binary-amd64/Packages.gz
+SHA512:
+ 873f8e2b5370656f1edec0cba1d8b8e7a42922f8b0cf026e7c0513415a0dd4d71628e138da01dd3e7b5802165397ef021a0cd1cd9c3b2cfef91e14afbf4c0521              785 main/binary-amd64/Packages
+ fa920d7a4710cd04d9c6630e98ea5989d46e8e34c96f7aa227c563fa8e5cdcc8c1382440744590831bc68c97a8c3697195e86629d4334de2aa885a16e13a5e7f              522 main/binary-amd64/Packages.gz

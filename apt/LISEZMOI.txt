@@ -1,0 +1,13 @@
+Dépôt APT signé de POS Suite Serveur
+====================================
+
+Installation sur la machine serveur (une fois) :
+
+  curl -fsSL https://ismaelrajaomaniry.github.io/pos-suite-desktop/apt/pos-suite-archive-keyring.asc \
+    | sudo gpg --dearmor -o /usr/share/keyrings/pos-suite.gpg
+  echo "deb [signed-by=/usr/share/keyrings/pos-suite.gpg] https://ismaelrajaomaniry.github.io/pos-suite-desktop/apt stable main" \
+    | sudo tee /etc/apt/sources.list.d/pos-suite.list
+  sudo apt update && sudo apt install pos-suite-serveur
+
+Mises à jour : sudo apt upgrade (l'application propose aussi ses mises à jour).
+Empreinte de la clé : 4C8383CF53F67886BDFD0AD0260391DFB61589B4

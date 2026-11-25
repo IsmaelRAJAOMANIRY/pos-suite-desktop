@@ -1,0 +1,19 @@
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Wed, 25 Nov 2026 22:37:30 +0000
+Label: POS Suite Serveur
+Origin: POS Suite
+Suite: stable
+MD5Sum:
+ 957f062ead53ee57ee71cc990fdebdc2             2067 main/binary-amd64/Packages
+ fbf230ceaa3773fef9f4fb111026108d              854 main/binary-amd64/Packages.gz
+SHA1:
+ 038bf003cecb3e8e2d9d44520adfe72f20c698a5             2067 main/binary-amd64/Packages
+ fd396863e4cd267a6726587468b54d5707998bce              854 main/binary-amd64/Packages.gz
+SHA256:
+ 06cf789096107c377c98adac18e9f17dea6e60ef6ba560793ebafdb6a2a2be87             2067 main/binary-amd64/Packages
+ a6dfcc0c57555b0329c78dc710be4cd233d390fd1d17b062d680b54f577a8b05              854 main/binary-amd64/Packages.gz
+SHA512:
+ 301c71866abf40463811999017567a3cb84f5ebcd3f0ca52b93309827c325b8d763f32e4423686185df10bb2f4f796a4b43153f23f459ebdd284454e8adf354c             2067 main/binary-amd64/Packages
+ 4ee7202f3fabc2bb06ff689ef6d4925a96e394197c7db4556bb4be8b122612e234d87c89bd772505728fa4464f8dbcb189e83096aa40fa65c3794012f9478c58              854 main/binary-amd64/Packages.gz

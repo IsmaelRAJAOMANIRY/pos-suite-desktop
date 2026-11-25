@@ -1,0 +1,48 @@
+Package: pos-suite-serveur
+Architecture: amd64
+Version: 0.2.0
+Priority: optional
+Maintainer: POS Suite
+Installed-Size: 34003
+Depends: libwebkit2gtk-4.1-0, libgtk-3-0, libwebkit2gtk-4.1-0, libgtk-3-0
+Filename: pool/main/stable/pos-suite-serveur_0.2.0_amd64.deb
+Size: 13738726
+MD5sum: bba90072e061bc02f1aa54ea2bb797f4
+SHA1: 45bf2e5a8645732e4b7c03e5658942de64190669
+SHA256: c3d1acfa61ce9466f5b0129cda4475ab924dc17e0238ddf47525544cf0b2f2e4
+SHA512: 7bd822ca6f6a98d3d2babd537a7c967850359bc991467852cb70730e1dca33ba1756c64905301707679b63454d1e5265b5cbbc14e341470606f08b7e628f9e97
+Description: POS Suite - serveur de boutique (prototype)
+ Prototype : serveur POS Suite avec PostgreSQL embarqué.
+
+Package: pos-suite-serveur
+Architecture: amd64
+Version: 0.2.1
+Priority: optional
+Maintainer: POS Suite
+Installed-Size: 34364
+Depends: libwebkit2gtk-4.1-0, libgtk-3-0, libwebkit2gtk-4.1-0, libgtk-3-0
+Filename: pool/main/stable/pos-suite-serveur_0.2.1_amd64.deb
+Size: 13844994
+MD5sum: d0127a7699372f6447905e1d91245289
+SHA1: 8dcfddb6f8a477d8a2c12f4743ed058738b81212
+SHA256: 1bef8d81a803455fa59650242c1463d12a91d53f0f335321e76c9283fc9d1a44
+SHA512: 9cfa06dd93cea9d0dc013e0589d3363ee4715e7fb6e345a40b3b7005f308376fc84733f64cc7ada07a214f8eb5261f3c813e7b73cedeb2f54850174fd4f9b1f7
+Description: POS Suite - serveur de boutique (prototype)
+ Prototype : serveur POS Suite avec PostgreSQL embarqué.
+
+Package: pos-suite-serveur
+Architecture: amd64
+Version: 0.3.0
+Priority: optional
+Maintainer: POS Suite
+Installed-Size: 36799
+Depends: libwebkit2gtk-4.1-0, libgtk-3-0, libwebkit2gtk-4.1-0, libgtk-3-0
+Filename: pool/main/stable/pos-suite-serveur_0.3.0_amd64.deb
+Size: 14781356
+MD5sum: f0e45e37da6e29562568bf15483ca444
+SHA1: 766269804d1f34ec435f69b31a96273c31a40472
+SHA256: 90fa511b1e402f67553a5a0f95155d9e1cac9675e7a22d3f7d28151609d1a1cb
+SHA512: dd0f07c3a747e533293ae3ceb5bec34e43e4e835aa67a8acc6a067fa0e01d98b540e1c4e0844c87e5a499d83bb1d13a35eed0c54912a9f318f66d2a72a81cfa6
+Description: POS Suite - serveur de boutique (prototype)
+ Prototype : serveur POS Suite avec PostgreSQL embarqué.
+

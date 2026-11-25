@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>POS Suite - dépôt APT</title>
+<style>body{font-family:system-ui,sans-serif;max-width:46rem;margin:2rem auto;padding:0 16px;line-height:1.5;color:#1d2939;background:#fff}pre{background:#f2f4f7;padding:12px;overflow-x:auto;border-radius:6px}</style></head>
+<body><h1>POS Suite Serveur - dépôt APT</h1>
+<p>Dépôt Debian signé (Debian, Ubuntu, Linux Mint, amd64).</p>
+<pre>curl -fsSL https://ismaelrajaomaniry.github.io/pos-suite-desktop/apt/pos-suite-archive-keyring.asc \
+  | sudo gpg --dearmor -o /usr/share/keyrings/pos-suite-archive-keyring.gpg
+echo "deb [signed-by=/usr/share/keyrings/pos-suite-archive-keyring.gpg] https://ismaelrajaomaniry.github.io/pos-suite-desktop/apt stable main" \
+  | sudo tee /etc/apt/sources.list.d/pos-suite.list
+sudo apt update &amp;&amp; sudo apt install pos-suite-serveur</pre>
+<p>Empreinte de la clé : <code>4C83 83CF 53F6 7886 BDFD 0AD0 2603 91DF B615 89B4</code></p>
+<p>Paquets et notes de version : <a href="https://github.com/IsmaelRAJAOMANIRY/pos-suite-desktop/releases">releases GitHub</a>.</p>
+</body></html>
